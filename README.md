@@ -1,2 +1,6 @@
-# SENTIMENT-ANALYSIS-CHATBOT
-A chatbot that uses NLTK’s sentiment analysis tools to classify user input as positive, negative, or neutral.
+HOW TO RUN
+
+Step 1. Install Python 3 on your system.
+Step 2. Install required library: pip to install nltk
+Step 3. Run the program hash.py
+Step 4. Type your message. Type 'exit' or 'quit' to end the chat.
