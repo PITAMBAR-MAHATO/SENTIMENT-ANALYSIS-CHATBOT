@@ -29,3 +29,8 @@ For each user message, the program immediately prints the sentiment Positive, Ne
 The compound score of each message is also saved in a list.
 At the end mood trend is summarised.
 
+
+STATUS OF TEAR 2 IMPLEMENTATION
+
+Statement level sentiment: Implemented
+Mood trend: Implemented
